@@ -1,0 +1,36 @@
+
+body{
+    
+    background-image: url('vignan .jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 80vh;
+    width:100vw;
+    
+}
+.input{
+    background-color: black;
+    padding: 20px ;
+    
+    margin-top:20px ;
+
+}
+
+section{
+    background: rgb(123, 110, 110);
+    color:black;
+    padding:20px;
+    display: flex;
+    flex-direction:row ;
+}
+
+ul{
+    margin:0;
+    padding:0;
+    list-style-type: none;
+}
+li{
+    display: inline-block;
+    margin-right:20px;
+}
